@@ -23,6 +23,5 @@ Puedes acceder a la página en la siguiente dirección: [segunda-practica-con-HT
 
 ![desktop](https://github.com/MDMSerra/segunda-practica-con-HTML-CSS/assets/122322927/5e20171a-e96a-43d6-a06f-7947c4986133)
 
-<p align="center">
 ![mobil](https://github.com/MDMSerra/segunda-practica-con-HTML-CSS/assets/122322927/88bdfa1b-a0b4-46c5-b653-9ef960776ad5)
-</p>
+
