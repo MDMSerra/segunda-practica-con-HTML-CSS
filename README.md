@@ -1,5 +1,6 @@
 # segunda-practica-con-HTML-CSS
-🌐 Es un proyecto web que ha sido desarrollado con HTML y CSS. Se trata de una página básica con un diseño enfocado en la experiencia móvil, siguiendo la metodología "Mobile First". Puedes acceder a la página en la siguiente dirección: segunda-practica-con-HTML-CSS.💻🎨📱
+🌐 Es un proyecto web que ha sido desarrollado con HTML y CSS. Se trata de una página básica con un diseño enfocado en la experiencia móvil, siguiendo la metodología "Mobile First". 
+Puedes acceder a la página en la siguiente dirección: [segunda-practica-con-HTML-CSS.](https://mdmserra.github.io/segunda-practica-con-HTML-CSS/#) 💻🎨📱
 
 ---
 
